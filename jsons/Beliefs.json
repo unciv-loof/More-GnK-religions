@@ -1,0 +1,297 @@
+[
+    {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>",
+            "Only available <before adopting [Asceticism II]> <hidden from users>"]
+    },
+    {
+        "name": "Asceticism II",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>",
+            "Only available <before adopting [Asceticism]> <hidden from users>"]
+    },
+    {
+        "name": "Cathedrals",
+        "type": "Follower",
+        "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Cathedrals II]> <hidden from users>"]
+    },
+    {
+        "name": "Cathedrals II",
+        "type": "Follower",
+        "uniques": ["May buy [Cathedral] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Cathedrals]> <hidden from users>"]
+    },
+    {
+        "name": "Choral Music",
+        "type": "Follower",
+        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
+            "Only available <before adopting [Choral Music II]> <hidden from users>"]
+    },
+    {
+        "name": "Choral Music II",
+        "type": "Follower",
+        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
+            "Only available <before adopting [Choral Music]> <hidden from users>"]
+    },
+    {
+        "name": "Divine inspiration",
+        "type": "Follower",
+        "uniques": ["[+2 Faith] from every [Wonder]",
+            "Only available <before adopting [Divine inspiration II]> <hidden from users>"]
+    },
+    {
+        "name": "Divine inspiration II",
+        "type": "Follower",
+        "uniques": ["[+2 Faith] from every [Wonder]",
+            "Only available <before adopting [Divine inspiration]> <hidden from users>"]
+    },
+    {
+        "name": "Feed the World",
+        "type": "Follower",
+        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]",
+            "Only available <before adopting [Feed the World II]> <hidden from users>"]
+    },
+    {
+        "name": "Feed the World II",
+        "type": "Follower",
+        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]",
+            "Only available <before adopting [Feed the World]> <hidden from users>"]
+    },
+    {
+        "name": "Guruship",
+        "type": "Follower",
+        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>",
+            "Only available <before adopting [Guruship II]> <hidden from users>"]
+    },
+    {
+        "name": "Guruship II",
+        "type": "Follower",
+        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>",
+            "Only available <before adopting [Guruship]> <hidden from users>"]
+    },
+    {
+        "name": "Holy Warriors",
+        "type": "Follower",
+        "uniques": ["May buy [{pre-[Industrial era]} {Military} {Land}] units with [Faith] for [2] times their normal Production cost <in [in cities following this religion] cities>",
+            "Only available <before adopting [Holy Warriors II]> <hidden from users>"]
+    },
+    {
+        "name": "Holy Warriors II",
+        "type": "Follower",
+        "uniques": ["May buy [{pre-[Industrial era]} {Military} {Land}] units with [Faith] for [2] times their normal Production cost <in [in cities following this religion] cities>",
+            "Only available <before adopting [Holy Warriors]> <hidden from users>"]
+    },
+    {
+        "name": "Liturgical Drama",
+        "type": "Follower",
+        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>",
+            "Only available <before adopting [Liturgical Drama II]> <hidden from users>"]
+    },
+    {
+        "name": "Liturgical Drama II",
+        "type": "Follower",
+        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>",
+            "Only available <before adopting [Liturgical Drama]> <hidden from users>"]
+    },
+    {
+        "name": "Monasteries",
+        "type": "Follower",
+        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]",
+            "Only available <before adopting [Monasteries II]> <hidden from users>"]
+    },
+    {
+        "name": "Monasteries II",
+        "type": "Follower",
+        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]",
+            "Only available <before adopting [Monasteries]> <hidden from users>"]
+    },
+    {
+        "name": "Mosques",
+        "type": "Follower",
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Mosques II]> <hidden from users>"]
+    },
+    {
+        "name": "Mosques II",
+        "type": "Follower",
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Mosques]> <hidden from users>"]
+    },
+    {
+        "name": "Pagodas",
+        "type": "Follower",
+        "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Pagodas II]> <hidden from users>"]
+    },
+    {
+        "name": "Pagodas II",
+        "type": "Follower",
+        "uniques": ["May buy [Pagoda] buildings with [Faith] [in cities following this religion]",
+            "Only available <before adopting [Pagodas]> <hidden from users>"]
+    },
+    {
+        "name": "Peace Gardens",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Garden]",
+            "Only available <before adopting [Peace Gardens II]> <hidden from users>"]
+    },
+    {
+        "name": "Peace Gardens II",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Garden]",
+            "Only available <before adopting [Peace Gardens]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Art",
+        "type": "Follower",
+        "uniques": ["[+8 Culture] from every [Hermitage]",
+            "Only available <before adopting [Religious Art II]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Art II",
+        "type": "Follower",
+        "uniques": ["[+8 Culture] from every [Hermitage]",
+            "Only available <before adopting [Religious Art]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Center",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
+            "Only available <before adopting [Religious Center II]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Center II",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [5] [Followers of this Religion]>",
+            "Only available <before adopting [Religious Center]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Community",
+        "type": "Follower",
+        "uniques": ["[+1]% [Production] from every follower, up to [15]%",
+            "Only available <before adopting [Religious Community II]> <hidden from users>"]
+    },
+    {
+        "name": "Religious Community II",
+        "type": "Follower",
+        "uniques": ["[+1]% [Production] from every follower, up to [15]%",
+            "Only available <before adopting [Religious Community]> <hidden from users>"]
+    },
+    {
+        "name": "Swords into Ploughshares",
+        "type": "Follower",
+        "uniques": ["[+15]% growth [in this city] <when not at war>",
+            "Only available <before adopting [Swords into Ploughshares II]> <hidden from users>"]
+    },
+    {
+        "name": "Swords into Ploughshares II",
+        "type": "Follower",
+        "uniques": ["[+15]% growth [in this city] <when not at war>",
+            "Only available <before adopting [Swords into Ploughshares]> <hidden from users>"]
+    },
+    
+    ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+
+    {
+        "name": "Ceremonial Burial II",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] for each global city following this religion"]
+    },
+    {
+        "name": "Church Property II",
+        "type": "Founder",
+        "uniques": ["[+2 Gold] for each global city following this religion"]
+    },
+    {
+        "name": "Initiation Rites II",
+        "type": "Founder",
+        "uniques": ["[+100 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+    },
+    {
+        "name": "Interfaith Dialogue II",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
+    },
+    {
+        "name": "Papal Primacy II",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]",
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>",
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>"]
+    },
+    {
+        "name": "Peace Loving II",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"]
+    },
+    {
+        "name": "Pilgrimage II",
+        "type": "Founder",
+        "uniques": ["[+2 Faith] for each global city following this religion"]
+    },
+    {
+        "name": "Tithe II",
+        "type": "Founder",
+        "uniques": ["[+1 Gold] from every [4] global followers [in all cities]"]
+    },
+    {
+        "name": "World Church II",
+        "type": "Founder",
+        "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
+    },
+
+    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+
+    {
+        "name": "Defender of the Faith II",
+        "type": "Enhancer",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+        // ToDo: Should only be friendly territory of cities that follow this religion
+    },
+    {
+        "name": "Holy Order II",
+        "type": "Enhancer",
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+    },
+    {
+        "name": "Itinerant Preachers II",
+        "type": "Enhancer",
+        "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
+    },
+    {
+        "name": "Just War II",
+        "type": "Enhancer",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        // ToDo: Should only be enemy territory of cities that follow this religion
+    },
+    {
+        "name": "Messiah II",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+    },
+    {
+        "name": "Missionary Zeal II",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units>"]
+    },
+    {
+        "name": "Religious Texts II",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]>"]
+    },
+    {
+        "name": "Religious Unity II",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Natural religion spread [in City-State cities]",
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>",
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>"]
+    },
+    {
+        "name": "Reliquary II",
+        "type": "Enhancer",
+        "uniques": ["Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+    }
+]
+
