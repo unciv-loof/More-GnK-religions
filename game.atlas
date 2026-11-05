@@ -1,0 +1,97 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Baptist
+  rotate: false
+  xy: 673, 43
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+ReligionIcons/Birb Religion
+  rotate: false
+  xy: 462, 37
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+ReligionIcons/Chiminagua
+  rotate: false
+  xy: 1075, 60
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionIcons/Druidism
+  rotate: false
+  xy: 1442, 134
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ReligionIcons/Fyrnsidu
+  rotate: false
+  xy: 1556, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Hellenism
+  rotate: false
+  xy: 1664, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Kemetism
+  rotate: false
+  xy: 1772, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Nitsu OC
+  rotate: false
+  xy: 4, 4
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+ReligionIcons/Order of the Sun God
+  rotate: false
+  xy: 248, 34
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+ReligionIcons/Pachamama
+  rotate: false
+  xy: 1880, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Teotl
+  rotate: false
+  xy: 1442, 32
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+ReligionIcons/Tjukurpa
+  rotate: false
+  xy: 1263, 69
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+ReligionIcons/Zemiism
+  rotate: false
+  xy: 878, 51
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
