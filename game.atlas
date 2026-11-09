@@ -88,6 +88,13 @@ ReligionIcons/Tjukurpa
   orig: 171, 171
   offset: 0, 0
   index: -1
+ReligionIcons/Truffle Monopoly
+  rotate: false
+  xy: 1544, 36
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 ReligionIcons/Zemiism
   rotate: false
   xy: 878, 51
